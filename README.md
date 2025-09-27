@@ -1,3 +1,3 @@
 # lee-heejae
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeeJae)](https://github.com/elevensheep/github-readme-stats)
+[![elevensheep's GitHub stats](https://github-readme-stats.vercel.app/api?username=elevensheep&show_icons=true&theme=radical)](https://github.com/elevensheep)
