@@ -2,7 +2,7 @@
 
 <br/>
 
-[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Felevensheep?color=blue&label=hits&size=small)](https://myhits.vercel.app)
+[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fmyhits.vercel.app?color=blue&label=hits&size=small&base_count=1000)](https://myhits.vercel.app)
 
 ### 👨‍💻 About Me
 **백엔드 새싹 개발자 이희재입니다.**
