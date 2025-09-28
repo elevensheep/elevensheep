@@ -2,6 +2,8 @@
 
 <br/>
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Felevensheep)](https://hits.seeyoufarm.com)
+
 ### 👨‍💻 About Me
 **백엔드 새싹 개발자 이희재입니다.**
 <br>
