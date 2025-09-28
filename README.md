@@ -80,11 +80,16 @@ Spring과 Express 기반 웹 프로젝트를 수행하며, 기획부터 API 설�
 ### 📊 My GitHub Stats
 > GitHub-Readme-Stats를 이용한 통계입니다.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elevensheep&show_icons=true&theme=radical" alt="elevensheep's GitHub Stats"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elevensheep&layout=compact&theme=radical" alt="elevensheep's Top Languages"/>
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=elevensheep&show_icons=true&theme=radical" height="170px" width="100%"/>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elevensheep&layout=compact&theme=radical" height="170px" width="100%"/>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
