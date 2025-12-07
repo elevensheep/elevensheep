@@ -97,6 +97,11 @@ Spring과 Express 기반 웹 프로젝트를 수행하며, 기획부터 API 설�
 
 ---
 
+#### 🔗 [Bu-Chatbot](https://github.com/elevensheep/chatbot)
+> 수업계획서 기반 RAG
+
+---
+
 #### 🔗 [Voice NFT Trading](https://github.com/elevensheep/Voice_NFT_Trading)
 > 블록체인 NFT 기반 목소리 거래 웹 서비스
 
